@@ -1,5 +1,5 @@
-# AVDatabase
-Audio Visual Database - Test Cards / Patterns / Sounds &amp; Tones
+# AVResourceDB
+Audio Visual Resource Database - Test Cards / Patterns / Sounds &amp; Tones
 
 
 ## Test Cards - Test patterns.
